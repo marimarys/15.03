@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\settings.h(11,48): error C2065:  PLAYER_WIDTH: необъявленный идентификатор
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\settings.h(11,85): error C2065:  PLAYER_HEIGHT: необъявленный идентификатор
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(9,4): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(8,31): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(25,3): error C2065:  Event: необъявленный идентификатор
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(25,9): error C2146:  синтаксическая ошибка: отсутствие ";" перед идентификатором "event"
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(25,9): error C2065:  event: необъявленный идентификатор
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(26,27): error C2065:  event: необъявленный идентификатор
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(28,8): error C2065:  event: необъявленный идентификатор
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(28,1): error C2653:  Event: не является именем класса или пространства имен
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(28,29): error C2065:  Closed: необъявленный идентификатор
